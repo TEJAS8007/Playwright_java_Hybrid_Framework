@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="54.366" tests="19" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright\target\test-classes;C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright\target\classes;C:\Users\HP\.m2\repository\com\microsoft\playwright\playwright\1.25.0\playwright-1.25.0.jar;C:\Users\HP\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\HP\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\HP\.m2\repository\com\microsoft\playwright\driver\1.25.0\driver-1.25.0.jar;C:\Users\HP\.m2\repository\com\microsoft\playwright\driver-bundle\1.25.0\driver-bundle-1.25.0.jar;C:\Users\HP\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\HP\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\HP\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\HP\.m2\repository\com\aventstack\extentreports\5.0.8\extentreports-5.0.8.jar;C:\Users\HP\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\HP\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\HP\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\HP\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\HP\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\HP\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\HP\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\HP\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Users\HP\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\HP\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\HP\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\HP\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\HP\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\HP\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\HP\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.16\bin"/>
+    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire17351886879824069578\surefirebooter-20231013104728271_3.jar C:\Users\HP\AppData\Local\Temp\surefire17351886879824069578 2023-10-13T10-47-27_245-jvmRun1 surefire-20231013104728271_1tmp surefire_0-20231013104728271_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright\target\test-classes;C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright\target\classes;C:\Users\HP\.m2\repository\com\microsoft\playwright\playwright\1.25.0\playwright-1.25.0.jar;C:\Users\HP\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\HP\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\HP\.m2\repository\com\microsoft\playwright\driver\1.25.0\driver-1.25.0.jar;C:\Users\HP\.m2\repository\com\microsoft\playwright\driver-bundle\1.25.0\driver-bundle-1.25.0.jar;C:\Users\HP\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\HP\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\HP\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;C:\Users\HP\.m2\repository\com\aventstack\extentreports\5.0.8\extentreports-5.0.8.jar;C:\Users\HP\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\HP\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\HP\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\HP\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\HP\.m2\repository\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.17\poi-ooxml-schemas-3.17.jar;C:\Users\HP\.m2\repository\org\apache\xmlbeans\xmlbeans\2.6.0\xmlbeans-2.6.0.jar;C:\Users\HP\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\HP\.m2\repository\org\apache\poi\poi-ooxml\3.17\poi-ooxml-3.17.jar;C:\Users\HP\.m2\repository\com\github\virtuald\curvesapi\1.04\curvesapi-1.04.jar;C:\Users\HP\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\HP\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\HP\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\HP\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\HP\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\HP\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\HP\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\HP\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\HP"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.16"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire17351886879824069578\surefirebooter-20231013104728271_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.16+11-LTS-199"/>
+    <property name="user.name" value="HP"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\HP\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\HP\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.16"/>
+    <property name="user.dir" value="C:\Users\HP\OneDrive\Desktop\PlayWright\HyBrid_Framework_PlayWright"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.16\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk-11.0.16\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs\;C:\apache-maven-3.9.4\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\node_modules;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\HP\OneDrive\Desktop\jar\sikuli1\sikuli1\libs;C:\Users\HP\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\HP\AppData\Local\Programs\Python\Python311\;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Users\HP\AppData\Roaming\npm;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.16+11-LTS-199"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="EnterRegistrationTest" classname="com.qa.opencart.test.RegisterPageTest" time="3.162">
+    <system-out><![CDATA[Browser name : chromium
+[INFO ] 2023-10-13 10:47:54.389 [main] RegisterPageTest - Registration Details Entered
+]]></system-out>
+  </testcase>
+  <testcase name="AccountCreationVerificationTest" classname="com.qa.opencart.test.RegisterPageTest" time="0.073">
+    <system-out><![CDATA[Your Account Has Been Created!
+[INFO ] 2023-10-13 10:47:54.458 [main] RegisterPageTest - Account Message Verification
+[WARN ] 2023-10-13 10:47:54.463 [main] RegisterPageTest - Account Message Matched
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyLinksTest" classname="com.qa.opencart.test.RegisterPageTest" time="0.135">
+    <system-out><![CDATA[My Account
+Edit Account
+Password
+Address Book
+Wish List
+Order History
+Downloads
+Recurring payments
+Reward Points
+Returns
+Transactions
+Newsletter
+Logout
+[WARN ] 2023-10-13 10:47:54.516 [main] RegisterPageTest - Links validated Succesfully
+]]></system-out>
+  </testcase>
+  <testcase name="HomepagetitleTest" classname="com.qa.opencart.test.HomePageTest" time="0.298">
+    <system-out><![CDATA[Browser name : chromium
+Page title :Your Store
+[WARN ] 2023-10-13 10:48:00.862 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-13 10:48:00.863 [main] HomePageTest - HomePage title Matched
+]]></system-out>
+  </testcase>
+  <testcase name="HomepageurlTest" classname="com.qa.opencart.test.HomePageTest" time="0.015">
+    <system-out><![CDATA[Page url is :https://naveenautomationlabs.com/opencart/
+[WARN ] 2023-10-13 10:48:00.876 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-13 10:48:00.876 [main] HomePageTest - HomePage title Matched
+]]></system-out>
+  </testcase>
+  <testcase name="HomePageProductsTest" classname="com.qa.opencart.test.HomePageTest" time="0.051">
+    <system-out><![CDATA[Featured
+[WARN ] 2023-10-13 10:48:00.961 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-13 10:48:00.961 [main] HomePageTest - Home Page product text matched
+]]></system-out>
+  </testcase>
+  <testcase name="navigateToLoginPage" classname="com.qa.opencart.test.HomePageTest" time="0.013">
+    <system-out><![CDATA[Mackbook Exist on HomePage :true
+[INFO ] 2023-10-13 10:48:00.977 [main] HomePageTest - mackbook found
+]]></system-out>
+  </testcase>
+  <testcase name="validateFooterHyperLinkTest" classname="com.qa.opencart.test.HomePageTest" time="0.065">
+    <system-out><![CDATA[About Us
+Delivery Information
+Privacy Policy
+Terms & Conditions
+Contact Us
+Returns
+Site Map
+Brands
+Gift Certificates
+Affiliate
+Specials
+My Account
+Order History
+Wish List
+Newsletter
+OpenCart
+[INFO ] 2023-10-13 10:48:01.015 [main] HomePageTest - Home Page product text checking
+]]></system-out>
+  </testcase>
+  <testcase name="HomepouctTest[Apple](1)" classname="com.qa.opencart.test.HomePageTest" time="0.797">
+    <system-out><![CDATA[header content : Search - Apple
+[WARN ] 2023-10-13 10:48:01.838 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-13 10:48:01.839 [main] HomePageTest - Home Page Serch data matched
+]]></system-out>
+  </testcase>
+  <testcase name="HomepouctTest[Samsung](2)" classname="com.qa.opencart.test.HomePageTest" time="0.958">
+    <system-out><![CDATA[header content : Search - Samsung
+[WARN ] 2023-10-13 10:48:02.795 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-13 10:48:02.796 [main] HomePageTest - Home Page Serch data matched
+]]></system-out>
+  </testcase>
+  <testcase name="HomepouctTest[Mackbook](3)" classname="com.qa.opencart.test.HomePageTest" time="0.831">
+    <system-out><![CDATA[header content : Search - Mackbook
+[WARN ] 2023-10-13 10:48:03.610 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-13 10:48:03.610 [main] HomePageTest - Home Page Serch data matched
+]]></system-out>
+  </testcase>
+  <testcase name="getOrderDetailsTest" classname="com.qa.opencart.test.AddToCartPageTest" time="0.961">
+    <system-out><![CDATA[Browser name : chromium
+[WARN ] 2023-10-13 10:48:10.371 [main] AddToCartPageTest - Order Details Fetched Succesfully
+]]></system-out>
+  </testcase>
+  <testcase name="click_on_addtocart_Test" classname="com.qa.opencart.test.AddToCartPageTest" time="1.965">
+    <system-out><![CDATA[[WARN ] 2023-10-13 10:48:12.320 [main] AddToCartPageTest - Click on addtocart button
+]]></system-out>
+  </testcase>
+  <testcase name="getOrderDataTest" classname="com.qa.opencart.test.AddToCartPageTest" time="0.174">
+    <system-out><![CDATA[[WARN ] 2023-10-13 10:48:12.500 [main] AddToCartPageTest - Order Data Fetche Succesfully
+]]></system-out>
+  </testcase>
+  <testcase name="ClickonRemoveTest" classname="com.qa.opencart.test.AddToCartPageTest" time="0.426">
+    <system-out><![CDATA[[INFO ] 2023-10-13 10:48:12.921 [main] AddToCartPageTest - click on remove button
+]]></system-out>
+  </testcase>
+  <testcase name="LoginPageTitleTest" classname="com.qa.opencart.test.LoginPageTest" time="2.472">
+    <system-out><![CDATA[Browser name : chromium
+Login  page title :Account Login
+[WARN ] 2023-10-13 10:48:21.674 [main] LoginPageTest - Login title Matching
+[WARN ] 2023-10-13 10:48:21.674 [main] LoginPageTest - Login titile Matched
+]]></system-out>
+  </testcase>
+  <testcase name="LoginPageUrlTest" classname="com.qa.opencart.test.LoginPageTest" time="0.008">
+    <system-out><![CDATA[Login  page url :https://naveenautomationlabs.com/opencart/index.php?route=account/login
+[WARN ] 2023-10-13 10:48:21.680 [main] LoginPageTest - Login url  Matching
+[WARN ] 2023-10-13 10:48:21.681 [main] LoginPageTest - Login url  Matched
+]]></system-out>
+  </testcase>
+  <testcase name="forgotlinkTest" classname="com.qa.opencart.test.LoginPageTest" time="0.031">
+    <system-out><![CDATA[Is Forgot password link found :true
+[WARN ] 2023-10-13 10:48:21.720 [main] LoginPageTest - Forgot link Checking
+[WARN ] 2023-10-13 10:48:21.720 [main] LoginPageTest - Forgot link matched
+]]></system-out>
+  </testcase>
+  <testcase name="logiActionTest" classname="com.qa.opencart.test.LoginPageTest" time="1.57">
+    <system-out><![CDATA[Login Credentials : Tejas222@123gmail.com : Tejas@123
+[INFO ] 2023-10-13 10:48:23.297 [main] LoginPageTest - login Action Performed Sucessfully
+]]></system-out>
+  </testcase>
+</testsuite>

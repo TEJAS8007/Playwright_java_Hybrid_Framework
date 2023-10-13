@@ -1,0 +1,87 @@
+[WARN ] 2023-10-12 21:36:07.169 [main] AddToCartPageTest - Order Details Fetched Succesfully
+[WARN ] 2023-10-12 21:36:09.183 [main] AddToCartPageTest - Click on addtocart button
+[WARN ] 2023-10-12 21:36:09.253 [main] AddToCartPageTest - Order Data Fetche Succesfully
+[INFO ] 2023-10-12 21:36:09.432 [main] AddToCartPageTest - click on remove button
+[WARN ] 2023-10-12 21:36:42.831 [main] LoginPageTest - Login title Matching
+[WARN ] 2023-10-12 21:36:42.839 [main] LoginPageTest - Login titile Matched
+[WARN ] 2023-10-12 21:36:42.852 [main] LoginPageTest - Login url  Matching
+[WARN ] 2023-10-12 21:36:42.852 [main] LoginPageTest - Login url  Matched
+[WARN ] 2023-10-12 21:36:42.884 [main] LoginPageTest - Forgot link Checking
+[WARN ] 2023-10-12 21:36:42.884 [main] LoginPageTest - Forgot link matched
+[INFO ] 2023-10-12 21:36:44.200 [main] LoginPageTest - login Action Performed Sucessfully
+[WARN ] 2023-10-12 21:37:08.473 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:37:08.480 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:37:08.490 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:37:08.490 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:37:08.550 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:37:08.550 [main] HomePageTest - Home Page product text matched
+[INFO ] 2023-10-12 21:37:08.573 [main] HomePageTest - mackbook found
+[INFO ] 2023-10-12 21:37:08.622 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:37:09.189 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:37:09.189 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:37:09.872 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:37:09.872 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:37:10.375 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:37:10.376 [main] HomePageTest - Home Page Serch data matched
+[INFO ] 2023-10-12 21:37:50.690 [main] RegisterPageTest - Registration Details Entered
+[INFO ] 2023-10-12 21:37:50.727 [main] RegisterPageTest - Account Message Verification
+[WARN ] 2023-10-12 21:37:50.731 [main] RegisterPageTest - Account Message Matched
+[WARN ] 2023-10-12 21:37:50.760 [main] RegisterPageTest - Links validated Succesfully
+[WARN ] 2023-10-12 21:41:45.686 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:41:45.693 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:41:45.709 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:41:45.709 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:41:45.769 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:41:45.769 [main] HomePageTest - Home Page product text matched
+[INFO ] 2023-10-12 21:41:45.782 [main] HomePageTest - mackbook found
+[INFO ] 2023-10-12 21:41:45.820 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:41:46.521 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:41:46.521 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:41:47.135 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:41:47.135 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:41:47.644 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:41:47.645 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:41:55.163 [main] LoginPageTest - Login title Matching
+[WARN ] 2023-10-12 21:41:55.163 [main] LoginPageTest - Login titile Matched
+[WARN ] 2023-10-12 21:41:55.173 [main] LoginPageTest - Login url  Matching
+[WARN ] 2023-10-12 21:41:55.174 [main] LoginPageTest - Login url  Matched
+[WARN ] 2023-10-12 21:41:55.195 [main] LoginPageTest - Forgot link Checking
+[WARN ] 2023-10-12 21:41:55.196 [main] LoginPageTest - Forgot link matched
+[INFO ] 2023-10-12 21:41:56.416 [main] LoginPageTest - login Action Performed Sucessfully
+[WARN ] 2023-10-12 21:42:02.897 [main] AddToCartPageTest - Order Details Fetched Succesfully
+[WARN ] 2023-10-12 21:42:05.045 [main] AddToCartPageTest - Click on addtocart button
+[WARN ] 2023-10-12 21:42:05.123 [main] AddToCartPageTest - Order Data Fetche Succesfully
+[INFO ] 2023-10-12 21:42:05.279 [main] AddToCartPageTest - click on remove button
+[INFO ] 2023-10-12 21:42:19.258 [main] RegisterPageTest - Registration Details Entered
+[INFO ] 2023-10-12 21:42:19.297 [main] RegisterPageTest - Account Message Verification
+[WARN ] 2023-10-12 21:42:19.298 [main] RegisterPageTest - Account Message Matched
+[WARN ] 2023-10-12 21:42:19.317 [main] RegisterPageTest - Links validated Succesfully
+[WARN ] 2023-10-12 21:43:25.707 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:43:25.714 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:43:26.290 [main] HomePageTest - HomePage title Matching
+[WARN ] 2023-10-12 21:43:26.291 [main] HomePageTest - HomePage title Matched
+[WARN ] 2023-10-12 21:43:26.887 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:43:26.887 [main] HomePageTest - Home Page product text matched
+[INFO ] 2023-10-12 21:43:27.362 [main] HomePageTest - mackbook found
+[INFO ] 2023-10-12 21:43:27.839 [main] HomePageTest - Home Page product text checking
+[WARN ] 2023-10-12 21:43:29.055 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:43:29.055 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:43:30.052 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:43:30.052 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:43:31.195 [main] HomePageTest - Checking Home Page Serch data
+[WARN ] 2023-10-12 21:43:31.195 [main] HomePageTest - Home Page Serch data matched
+[WARN ] 2023-10-12 21:43:48.626 [main] LoginPageTest - Login title Matching
+[WARN ] 2023-10-12 21:43:48.627 [main] LoginPageTest - Login titile Matched
+[WARN ] 2023-10-12 21:44:02.995 [main] LoginPageTest - Login url  Matching
+[WARN ] 2023-10-12 21:44:02.997 [main] LoginPageTest - Login url  Matched
+[WARN ] 2023-10-12 21:44:03.349 [main] LoginPageTest - Forgot link Checking
+[WARN ] 2023-10-12 21:44:03.349 [main] LoginPageTest - Forgot link matched
+[INFO ] 2023-10-12 21:44:06.095 [main] LoginPageTest - login Action Performed Sucessfully
+[WARN ] 2023-10-12 21:44:16.465 [main] AddToCartPageTest - Order Details Fetched Succesfully
+[WARN ] 2023-10-12 21:44:19.205 [main] AddToCartPageTest - Click on addtocart button
+[WARN ] 2023-10-12 21:44:19.660 [main] AddToCartPageTest - Order Data Fetche Succesfully
+[INFO ] 2023-10-12 21:44:20.058 [main] AddToCartPageTest - click on remove button
+[INFO ] 2023-10-12 21:44:29.776 [main] RegisterPageTest - Registration Details Entered
+[INFO ] 2023-10-12 21:44:30.094 [main] RegisterPageTest - Account Message Verification
+[WARN ] 2023-10-12 21:44:30.095 [main] RegisterPageTest - Account Message Matched
+[WARN ] 2023-10-12 21:44:30.416 [main] RegisterPageTest - Links validated Succesfully

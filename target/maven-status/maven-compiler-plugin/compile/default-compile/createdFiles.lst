@@ -1,0 +1,7 @@
+EventListners\ExtentReportManager.class
+com\QA\Pages\RegisterPage.class
+com\QA\utilities\CommonUtility.class
+com\QA\Pages\AddToCartPage.class
+com\QA\Pages\LoginPage.class
+com\QA\Pages\HomePage.class
+com\QA\Opencart\factory\PlaywrightFactory.class
